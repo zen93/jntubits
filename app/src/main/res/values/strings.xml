@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">JNTU BITS</string>
+    <string name="title_section1">Learning</string>
+    <string name="title_section2">Revision</string>
+    <string name="title_section3">Settings</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="action_about">About</string>
+    <string name="action_help">Help</string>
+    <string name="action_score">Score</string>
+
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_score">Score</string>
+
+    <string name="regulation1">R09</string>
+    <string name="regulation2">R13</string>
+
+    <string-array name="mid_selection_first_year">
+        <item>Mid I</item>
+        <item>Mid II</item>
+        <item>Mid III</item>
+    </string-array>
+    <string-array name="mid_selection">
+        <item>Mid I</item>
+        <item>Mid II</item>
+    </string-array>
+    <string-array name="branch_selection">
+        <item>---</item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>MECH</item>
+    </string-array>
+    <string-array name="year_selection">
+        <item>---</item>
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+    </string-array>
+    <string-array name="sem_selection">
+        <item>---</item>
+        <item>I</item>
+        <item>II</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_select_options">SelectOptions</string>
+    <string name="title_activity_question_list">Questions List</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="title_activity_answer">AnswerActivity</string>
+    <string name="title_activity_mcqrev">Multiple Choice Questions</string>
+    <string name="MCQ">Multiple Choice Questions</string>
+    <string name="FB">Fill in the Blanks</string>
+    <string name="title_activity_mcq">Multiple Choice Questions</string>
+    <string name="title_activity_fb">Fill in the Blanks</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
